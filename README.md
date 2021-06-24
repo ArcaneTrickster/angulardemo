@@ -1,3 +1,13 @@
+basically its an app to test deployment on github.
+
+ 1.  npm install -g angular-cli-ghpages.
+ 2. ng build --prod --base-href "https://username.github.io/project-name/".
+ 3. ngh --dir dist/project-name
+
+link https://arcanetrickster.github.io/angulardemo/
+
+
+
 # Angulardemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
